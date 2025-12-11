@@ -1,0 +1,98 @@
+[  +98 ms] executing: uname -m
+[  +19 ms] Exit code 0 from: uname -m
+[   +2 ms] x86_64
+[  +20 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +11 ms] executing: [/home/seno/Desktop/flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[  +27 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2025-11-20 17:53:13 -0500
+[   +2 ms] executing: [/home/seno/Desktop/flutter/] git fetch --tags
+[+3182 ms] From https://github.com/flutter/flutter
+              04d7e56838d..47140240496  flutter_analyzer_plugin -> origin/flutter_analyzer_plugin
+            * [new branch]              issue-157435-touch-scroll-iframe -> origin/issue-157435-touch-scroll-iframe
+            * [new branch]              issue_179360            -> origin/issue_179360
+              6ff4a4acd97..d94c0e94da7  main                    -> origin/main
+              6ff4a4acd97..d94c0e94da7  master                  -> origin/master
+            * [new branch]              revert-176063-android-impl-149033 -> origin/revert-176063-android-impl-149033
+[        ] executing: [/home/seno/Desktop/flutter/] git -c log.showSignature=false log @{upstream} -n 1 --pretty=format:%ad --date=iso
+[   +8 ms] Exit code 0 from: git -c log.showSignature=false log @{upstream} -n 1 --pretty=format:%ad --date=iso
+[        ] 2025-12-03 14:56:10 -0800
+[  +15 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +5 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +70 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[  +10 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[  +15 ms] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +184 ms] Skipping pub get: version match.
+[ +213 ms] Skipping generating web_plugin_registrant.dart because it is up-to-date.
+[  +55 ms] Generating /media/seno/New Volume/Project/Flutter/mqtt_sensor_app (copy)/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+[  +11 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +7 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +3 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[  +12 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[   +6 ms] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +7 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[  +10 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[  +21 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[   +6 ms] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[ +166 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[        ] Android Studio version could not be detected, skipping Gradle-Java version compatibility check.
+[  +31 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[  +16 ms] Using gradle from /media/seno/New Volume/Project/Flutter/mqtt_sensor_app (copy)/android/gradlew.
+[  +39 ms] LocalFile: '/media/seno/New Volume/Project/Flutter/mqtt_sensor_app (copy)/android/build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[   +8 ms] LocalFile: '/media/seno/New Volume/Project/Flutter/mqtt_sensor_app (copy)/android/settings.gradle.kts' provides AGP version: 8.11.1
+[  +22 ms] Running Gradle task 'assembleDebug'...
+[   +4 ms] executing: [/media/seno/New Volume/Project/Flutter/mqtt_sensor_app (copy)/android/] /media/seno/New Volume/Project/Flutter/mqtt_sensor_app (copy)/android/gradlew --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib/main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuMzguMw==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049MTkwNzRkMTJmNw==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MTNlNjU4NzI1ZA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMC4x -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[ +226 ms] Downloading https://services.gradle.org/distributions/gradle-8.14-all.zip
